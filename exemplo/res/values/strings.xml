@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Não lembrei!</string>
+    
+    <!-- homeActivity mensagens -->
+    <string name="msg1">Telefone de contato: </string>
+    <string name="msg2">Aqui ira o telefone </string>
+    <string name="msg3">Nome do contato: </string>
+    <string name="msg4">Aqui ira o nome </string>
+    <string name="msg5">Adicionado em: </string>
+    <string name="msg6">Aqui ira a data </string>
+    
+    <!-- menu - main -->
+    <string name="action_settings">Settings</string>
+    
+    <!-- listaContatosActivity -->
+    <string name="aguarde">Aguarde enquanto é carregada a lista de contatos!</string>
+
+</resources>
